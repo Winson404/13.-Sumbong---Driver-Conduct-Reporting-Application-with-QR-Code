@@ -1,0 +1,217 @@
+ .u-section-1 {
+  background-image: url("images/tuk-tuk-rickshaw-traffic-road-vehicle-tagbilaran-bohol-philippines-asia.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 847px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 67px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-size: 3rem;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  width: 511px;
+  margin: 5px auto 53px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 670px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 29px 30px;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 573px;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  width: 439px;
+  margin: 62px auto -97px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 6px 30px;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 109px;
+  width: 109px;
+  margin: 20px auto 0;
+  padding: 12px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  margin: 10px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-label-1 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-label-2 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-label-3 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-btn-2 {
+  letter-spacing: 1px;
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  width: 100%;
+  background-image: none;
+  font-style: normal;
+}
+
+.u-section-1 .u-btn-3 {
+  border-style: none none solid;
+  margin: 20px auto 0 20px;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 54px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 698px;
+  }
+
+  .u-section-1 .u-group-1 {
+    animation-duration: 1000ms;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-btn-2 {
+    font-style: italic;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 41px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 765px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-bottom: 0;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 621px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 523px;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 31px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 24px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 619px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding: 9px 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 20px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 752px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 60px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 609px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 534px;
+    width: 320px;
+    margin-top: 14px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    font-style: normal;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: auto;
+  }
+}
